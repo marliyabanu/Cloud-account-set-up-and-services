@@ -113,6 +113,7 @@ After creating an AWS account, secure the root user and configure administrative
 ## Output
 
 <img width="1535" height="722" alt="image" src="https://github.com/user-attachments/assets/57e33a5f-6bf8-4e19-b67e-7a1d93c37309" />
+<img width="1530" height="778" alt="image" src="https://github.com/user-attachments/assets/772c8c28-6ed8-49d7-bebb-580f659c0f24" />
 
 
 
